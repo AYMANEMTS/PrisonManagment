@@ -1,0 +1,4 @@
+fullName,cnn,dateBirthday
+,address,status
+,maladies,dateOfEntry,
+crime,cellule_id

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*.main {*/
+/*    display: grid;*/
+/*    grid-template-areas:*/
+/*                "side content content"*/
+/*                "side content content";*/
+/*    grid-template-rows: 30px auto auto;*/
+/*}*/
+/*aside {grid-area: side;}*/
+/*main {grid-area: content}*/
+
